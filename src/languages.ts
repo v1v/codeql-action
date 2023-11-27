@@ -8,6 +8,7 @@ export enum Language {
   python = "python",
   ruby = "ruby",
   swift = "swift",
+  xml = "xml",
   yaml = "yaml",
 }
 
